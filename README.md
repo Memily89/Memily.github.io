@@ -1,4 +1,4 @@
-# Title
+# Name
 
 #### Technical Skills: Python, Java, SQL, VBA, Tableua, KNIME 
 
