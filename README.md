@@ -1,5 +1,7 @@
 # Title
 
+#### Technical Skills: Python, Java, SQL, VBA, Tableua, KNIME 
+
 ### Education
 - B.S., Management Information Systems | Northwest Missouri State University (_February 2025_)
 - A.S., General Sciences | Johnson County Community College (_December 2024_)
